@@ -1,4 +1,4 @@
-## Hæ ég heiti Ragnar
+## Big man
 
 ![](https://github.com/RagnarThor19/RagnarThor19/blob/main/astronaut.gif)
 
