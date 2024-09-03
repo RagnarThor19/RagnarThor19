@@ -1,5 +1,7 @@
 ## Hæ ég heiti Ragnar
 
+![](https://github.com/RagnarThor19/RagnarThor19/blob/main/astronaut.gif)
+
 <!--
 **RagnarThor19/RagnarThor19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
