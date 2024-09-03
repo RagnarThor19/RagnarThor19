@@ -1,6 +1,6 @@
 ## Big man
 
-![](https://github.com/RagnarThor19/RagnarThor19/blob/main/astronaut.gif)
+![](https://github.com/RagnarThor19/RagnarThor19/blob/main/bomba.gif)
 
 <!--
 **RagnarThor19/RagnarThor19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
